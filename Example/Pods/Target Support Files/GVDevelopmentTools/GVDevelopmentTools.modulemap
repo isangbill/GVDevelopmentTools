@@ -1,0 +1,6 @@
+framework module GVDevelopmentTools {
+  umbrella header "GVDevelopmentTools-umbrella.h"
+
+  export *
+  module * { export * }
+}

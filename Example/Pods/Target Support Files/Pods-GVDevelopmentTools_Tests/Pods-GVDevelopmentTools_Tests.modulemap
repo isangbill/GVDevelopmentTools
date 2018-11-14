@@ -1,0 +1,6 @@
+framework module Pods_GVDevelopmentTools_Tests {
+  umbrella header "Pods-GVDevelopmentTools_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "GVDevelopmentTools",
+  "version": "0.1.0",
+  "summary": "A short description of GVDevelopmentTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/iSangbill/GVDevelopmentTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iSangbill": "isangbill@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/iSangbill/GVDevelopmentTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GVDevelopmentTools/Classes/**/*",
+  "dependencies": {
+    "YTKNetwork": [
+
+    ],
+    "CocoaLumberjack": [
+
+    ],
+    "MBProgressHUD": [
+
+    ]
+  }
+}

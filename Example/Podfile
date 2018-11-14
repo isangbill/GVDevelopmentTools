@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GVDevelopmentTools_Example' do
+  pod 'GVDevelopmentTools', :path => '../'
+
+  target 'GVDevelopmentTools_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
